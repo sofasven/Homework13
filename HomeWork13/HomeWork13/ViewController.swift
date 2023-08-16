@@ -13,6 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Task#1
         // Task#3
+        // я тоже пишу важный код, но другой
+        // закончил писать важный код
         // я пишу важный код
     }
 
